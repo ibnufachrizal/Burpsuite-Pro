@@ -1,7 +1,7 @@
 # Burpsuite-Pro
 Crack burp suite pro in Macbook M1/M2
 
-1. open terminal and check the java version, java version must be higher than 11. Type command: **java --version**
+1. open terminal and check the java version, java version must be higher than version 11+. Type command: **java --version**
 https://download.oracle.com/java/18/latest/jdk-18_macos-aarch64_bin.dmg
 
 2. After java is complete we have to download Burpsuite Profesional latest version .jar & download bootloader.jar
